@@ -1,0 +1,2 @@
+serviceClass: tn.insat.gl.bigdata.wittalks.client.GreetingService
+path: 3582A1A5D69630F1CFD179B1B5861FDE.gwt.rpc
